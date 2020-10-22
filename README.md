@@ -1,6 +1,4 @@
 # Rick and Morty Adventure
-
-##Application URL 
 https://tornubarikoboo.github.io/Smith-s-Adventure/
 
 ## Description
