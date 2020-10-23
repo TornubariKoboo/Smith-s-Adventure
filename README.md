@@ -41,13 +41,7 @@ We designed an application based on the Rick and Morty Television show. Once, th
 
 ## Installation
 
-You can access the application by following this link: https://adellis95.github.io/Project-1/
-
-Or go to my GitHub page and clone my Project-1 repository from here : https://github.com/Adellis95
-
-Then you pull the cloned repository into your terminal/GitBash by using the "git pull (git@github.com:Adellis95/Project-1.git)
-
-Afterwards, you change directories in your terminal until you are in the Project-1 repository and open the file in your code editor by typing "code ."
+You can access the application by following this link: https://tornubarikoboo.github.io/Smith-s-Adventure/
 
 ## Technologies
 
